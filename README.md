@@ -27,4 +27,7 @@ Additionally, there is a footer that is also visible on every page.
 
 ![wireFrame & Mock-up](../../Pictures/wordPress/WIREFRAME%20(2).png)
 
-Trello-link : https://trello.com/invite/b/STd6yHWG/1d04faad0f05a1fc0c6553df31caaeb7/bakery-iceacream-shop-website
+Trello-link : https://trello.com/invite/b/STd6yHWG/1d04faad0f05a1fc0c6553df31caaeb7/bakery-iceacream-shop-website    
+
+
+[wireFrame & Mock-up](../../Pictures/wordPress/WIREFRAME.pdf%0D)
