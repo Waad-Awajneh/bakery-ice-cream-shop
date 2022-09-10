@@ -1,4 +1,4 @@
-# bakery-ice-cream-shop
+# Bakery-ice-cream-shop
 WordPress Project
 
 I build the website using WordPress from scratch, my site is divided into 5 main pages.
